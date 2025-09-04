@@ -59,9 +59,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/mehmoh41/"><img src="https://avatars.githubusercontent.com/u/59174850?v=4"/></a>
+
 <a href="mailto:moh.meh41@gmail.com">Mail Me</a>
-<a href="https://www.instagram.com/mehmoh41/"><img src="https://img.shields.io/badge/-@hamzasajid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/mehmoh41/">My Instagram Account</a>
  </p>
  
 <br>
