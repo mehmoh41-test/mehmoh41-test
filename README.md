@@ -11,7 +11,7 @@
 	
 👨‍💻 Front-end & Mobile Developer At Omagh Solutions
 	
-💸 Help 80+ 
+💸 Help 10+ 
 
 📧 Book free 1v1 consultation https://linktr.ee/mehmoh41
  
