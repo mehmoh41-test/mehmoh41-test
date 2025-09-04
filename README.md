@@ -40,16 +40,16 @@
  
 <tr>
     <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FMicrosoft-Azure-logo.jpg?alt=media&token=5d196928-848c-433b-b332-c91e7714ab74">
+        <img src="https://media.licdn.com/dms/image/v2/D4D12AQFKtXLLsNLDyw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708969830468?e=2147483647&v=beta&t=opMLqRgFyW7n0DOAQ_LWB7IPgyMglr0FRAF3MPz2RKQ">
     </td>
     <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
+        <img src="https://localo.com/assets/img/definitions/what-is-wordpress.webp">
     </td>
  <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media&token=352d5775-d1a4-4809-b40b-168a05e8b553" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZmWqPLPYPSdpVF7w4prft0yjB0Gf_I7Jr3A&s" >
     </td>
      <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FPinecone-Primary-Logo-White.png?alt=media&token=83a42d53-6832-4da8-b5ee-db7fb310b4a7">
+        <img src="https://www.aplyca.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fc63hsprlvlya%2F1LTUsgksc1ezaj9Wg1DHJG%2F3c1485d9c38f4e771ed41cb487c31334%2F72c58c80-9727-11eb-98b2-f352fded32b9.png&w=2048&q=75">
     </td>    
     <td align='center'>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
