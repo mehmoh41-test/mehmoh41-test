@@ -30,7 +30,7 @@
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
     </td>
  <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
+        <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi5vke8fu8g8659hjvv22.jpeg" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
