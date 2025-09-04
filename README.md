@@ -9,7 +9,7 @@
 
 🤵 Studying at @Saylani IT Mass Training Cener 🤖
 	
-👨‍💻 Front-end & Mobile At Omagh Solutions
+👨‍💻 Front-end & Mobile Developer At Omagh Solutions
 	
 💸 Help 80+ 
 
