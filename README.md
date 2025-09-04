@@ -1,19 +1,19 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm mehdi mohammadi👋<a href="https://hammad-air.github.io/hamza/"></h1>
+    <h1> Hi there, I'm mehdi mohammadi👋<a href="https://github.com/mehmoh41/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/mehmoh41"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
 
-🤵 Studying at @ZABIST 🤖
+🤵 Studying at @Saylani IT Mass Training Cener 🤖
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻 Front-end & Mobile At Omagh Solutions
 	
-💸 Help 80+ Clients via Generative AI & Automation
+💸 Help 80+ 
 
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
+📧 Book free 1v1 consultation https://linktr.ee/mehmoh41
  
 <h2>Tech Stack</h2>
 
