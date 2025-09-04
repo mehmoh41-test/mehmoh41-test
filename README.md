@@ -3,7 +3,7 @@
     <h1> Hi there, I'm mehdi mohammadi👋<a href="https://github.com/mehmoh41/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/mehmoh41"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/mehmoh41"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+and+Backend+Developer;Mobile+App+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
 
